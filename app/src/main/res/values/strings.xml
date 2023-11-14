@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab3_PH23924</string>
+    <string name="IPADDRESS">http://192.168.1.90:80</string>
+</resources>
